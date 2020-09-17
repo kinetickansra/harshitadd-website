@@ -25,8 +25,8 @@ interests:
 - Multilingual Voice Modelling 
 - Human Computer Interaction
 
-education:
-  courses:
+# education:
+#   courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
