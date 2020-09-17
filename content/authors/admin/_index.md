@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'harshitadd@gmail.com'  # For a direct email link, use "bhrigukansra98@gmail.com".
+  link: "mailto:harshitadd@gmail.com"  # For a direct email link, use "bhrigukansra98@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ihsrahedid
