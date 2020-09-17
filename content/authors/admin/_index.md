@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Harshita Diddee
+name: Harshita Diddee
 
 # Username (this should match the folder name)
 authors:
@@ -10,30 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Final Year CS Undergraduate 
+role: Final Year CS Undergrad 
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Maharaja Agrasen Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Final year Computer Science Undergraduate who aspires to build Privacy-Preserving AI architectures. My research interests primarily include Federated Learning and Multilingual Voice Modeling architectures.
-
+bio: I am a Final year Computer Science Undergraduate who aspires to build Privacy-Preserving AI architectures.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
-# education:
-#  courses:
+- Federated Learning 
+- Multilingual Voice Modelling 
+- Human Computer Interaction
+
+education:
+  courses:
 #  - course: PhD in Artificial Intelligence
-#   institution: Stanford University
+#    institution: Stanford University
 #    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
+#  - course: High in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
 
@@ -44,7 +41,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:harshita.bvcoend@bvp.edu.in"  # For a direct email link, use "mailto:test@example.org".
+  link: 'harshitadd@gmail.com'  # For a direct email link, use "bhrigukansra98@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ihsrahedid
@@ -53,16 +50,18 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/harshitadd/
-  
+  link: https://github.com/harshitad/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/harshita-diddee
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "bhrigukansra98@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,4 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently interning at IIIT Delhi under Dr. Koteswar Rao Jerripothula where I am exploring a special use case of vertical cross-silo federated learning . My last internship's work under The Marconi Society's Celestini Program India was recently published by Tensorflow - Check it out at https://blog.tensorflow.org/2020/02/visionair-using-federated-learning-to-estimate-airquality-tensorflow-api-java.html here. have also contributed to my team's win at several hackathons including the Singapore India Hackathon and The Smart India Hackathon.
+
+I am currently interning at IIIT Delhi under Dr. Koteswar Rao Jerripothula where I am exploring a special use case of vertical cross-silo federated learning . My last internship's work under The Marconi Society's Celestini Program India was recently by TensorFlow .I have also contributed to my team's win at several hackathons including the Singapore India Hackathon and The Smart India Hackathon.
+
+I aim to contribute to the development of models that can leverage the use of audio/image crowdsourced data to build diverse models without compromising on the privacy of the users who contribute to this data system
