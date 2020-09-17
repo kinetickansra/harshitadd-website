@@ -14,8 +14,8 @@ role: Final Year CS Undergrad
 
 # Organizations/Affiliations
 organizations:
-- name: Maharaja Agrasen Institute of Technology
-  url: ""
+- name: NICE Lab, IIIT Delhi 
+  url: "https://sites.google.com/view/neatai-servolab/home"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Final year Computer Science Undergraduate who aspires to build Privacy-Preserving AI architectures.
