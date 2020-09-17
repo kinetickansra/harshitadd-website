@@ -11,12 +11,12 @@
 [[main]]
   name = "Projects"
   url = "#slider"
-  weight = 10
+  weight = 20
   
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 0
 
 [[main]]
   name = "Projects"
