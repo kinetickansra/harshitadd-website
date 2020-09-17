@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I am currently interning at IIIT Delhi under Dr. Koteswar Rao Jerripothula where I am exploring a special use case of vertical cross-silo federated learning . My last internship's work under The Marconi Society's Celestini Program India was recently by TensorFlow .I have also contributed to my team's win at several hackathons including the Singapore India Hackathon and The Smart India Hackathon.
+I aim to contribute to the development of models that can leverage the use of audio/image crowdsourced data to build diverse models without compromising on the privacy of the users who contribute to this data system. I am currently interning at IIIT Delhi under Dr. Koteswar Rao Jerripothula where I am exploring a special use case of vertical cross-silo federated learning . My last internship's work under The Marconi Society's Celestini Program India was recently by [TensorFlow](https://blog.tensorflow.org/2020/02/visionair-using-federated-learning-to-estimate-airquality-tensorflow-api-java.html) .I have also contributed to my team's win at several hackathons including the Singapore India Hackathon and The Smart India Hackathon.
 
-I aim to contribute to the development of models that can leverage the use of audio/image crowdsourced data to build diverse models without compromising on the privacy of the users who contribute to this data system
