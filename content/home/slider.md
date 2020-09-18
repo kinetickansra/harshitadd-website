@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "CrossPriv"
+  content = "CrossPriv is a User Privacy Preservation model for Cross-Silo Federated Learning systems which aims to dictate some preliminary norms of SaaS based collaborative software."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
