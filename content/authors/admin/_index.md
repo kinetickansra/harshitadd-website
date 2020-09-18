@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Harshita Diddee
+name: Bhrigu Kansra
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Final Year CS Undergrad 
+role: Undergrad Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: NICE Lab, IIIT Delhi 
-  url: "https://sites.google.com/view/neatai-servolab/home"
+- name: Maharaja Agrasen Institute of Technology
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Final year Computer Science Undergraduate who aspires to build Privacy-Preserving AI architectures.
+bio: My research interests include , mobile computing and programmable matter.
+
 interests:
-
-- Federated Learning 
-- Multilingual Voice Modelling 
 - Human Computer Interaction
+- ASR systems
+- Federated Learning
+- Computer Vision
 
-# education:
-#   courses:
+education:
+  courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
+  - course: B.Tech in Information Technology
+    institution: Maharaja Agrasen Institute of Technology
+    year: 2017-2021
 #  - course: High in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
@@ -41,19 +45,19 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:harshitadd@gmail.com"  # For a direct email link, use "bhrigukansra98@gmail.com".
+  link: 'bhrigukansra98@gmail.com'  # For a direct email link, use "bhrigukansra98@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ihsrahedid
+  link: https://twitter.com/bhrigukansra
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/harshitad/
+  link: https://github.com/kinetickansra
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/harshita-diddee
+  link: https://www.linkedin.com/in/bhrigukansra/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -69,9 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-<div style="text-align: justify"> I aim to contribute to the development of models that can leverage the use of audio/image crowdsourced data to build diverse models without compromising on the privacy of the users who contribute to this data system. 
-I am currently interning at IIIT Delhi under Dr. Koteswar Rao Jerripothula where I am exploring a special use case of vertical cross-silo federated learning . My last internship's work under The Marconi Society's Celestini Program India was recently by [TensorFlow](https://blog.tensorflow.org/2020/02/visionair-using-federated-learning-to-estimate-airquality-tensorflow-api-java.html).
 
-I have also contributed to my team's win at several hackathons including [The Singapore India Hackathon 2019](https://mic.gov.in/assets/si2019/index.html) and [The Smart India Hackathon 2019](https://www.aicte-india.org/Initiatives/smart-india-hackathon).
+I'm a Junior year undergrad interested in Federated Learning, ASR systems, HCI. I recently completed my research internship at IIT Delhi under The Marconi Society's Celestini India Program where I worked on developing a solution to increase women safety by detection distress situation in audio signals on mobile platforms.
 
- </div>
+When I'm not working on my laptop, you're likely to find me reading novels, playing flute, or making coffee.
