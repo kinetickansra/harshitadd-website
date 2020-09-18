@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Final Year CS Undergrad 
+role: Undergrad Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://sites.google.com/view/neatai-servolab/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I aspire to build Privacy-Preserving AI architectures that are accessible to all members of a community.
+bio: I aspire to build Privacy-Preserving AI architectures. 
 
 interests:
 - Federated Learning 
@@ -26,10 +26,13 @@ interests:
 - Human Computer Interaction
 
 education:
-#   courses:
-    - course: Bachelors of Technology ( Computer Science and Engineering Major) 
-    institution: [GGSIPU](http://www.ipu.ac.in/)
+  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
 #    year: 2012
+  - course:  Bachelors of Technology ( Computer Science and Engineering Major) 
+    institution: [GGSIPU](http://www.ipu.ac.in/)    
+    year: 2017-2021
 #  - course: High in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
@@ -41,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:harshitadd@gmail.com"  # For a direct email link, use "bhrigukansra98@gmail.com".
+  link: "mailto:harshitadd@gmail.com"  
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ihsrahedid
@@ -54,14 +57,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/harshita-diddee
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bhrigukansra98@gmail.com"
+email: "harshitadd@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,7 +67,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I aim to contribute to the development of models that can leverage the use of audio/image crowdsourced data to build diverse models without compromising on the privacy of the users who contribute to this data system. 
-I am currently interning at IIIT Delhi under Dr. Koteswar Rao Jerripothula where I am exploring a special use case of vertical cross-silo federated learning . My last internship's work under The Marconi Society's Celestini Program India was recently by [TensorFlow](https://blog.tensorflow.org/2020/02/visionair-using-federated-learning-to-estimate-airquality-tensorflow-api-java.html).
 
-I have also contributed to my team's win at several hackathons including [The Singapore India Hackathon 2019](https://mic.gov.in/assets/si2019/index.html) and [The Smart India Hackathon 2019](https://www.aicte-india.org/Initiatives/smart-india-hackathon).
+
+I aim to contribute to the development of models that can leverage the use of audio/image crowdsourced data to build diverse models without compromising on their users privacy. 
+
+I am currently interning at IIIT Delhi under Dr. Koteswar Rao Jerripothula at the NICE Lab where I am exploring a special use case of vertical cross-silo federated learning. 
+
+My last internship's work under The Marconi Society's Celestini Program India was published by [TensorFlow](https://blog.tensorflow.org/2020/02/visionair-using-federated-learning-to-estimate-airquality-tensorflow-api-java.html) and I have also contributed to my team's win at several hackathons including [The Singapore India Hackathon 2019](https://mic.gov.in/assets/si2019/index.html) and [The Smart India Hackathon 2019](https://www.aicte-india.org/Initiatives/smart-india-hackathon).
