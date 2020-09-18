@@ -1,66 +1,83 @@
----
-# An instance of the Accomplishments widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: accomplishments
++++
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Accomplish&shy;ments
-subtitle:
+title = "Accomplish&shy;ments"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format: Jan 2006
+date_format = "Jan 2006"
 
 # Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
+#   Add/remove as many `[[item]]` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   You can begin a multiline `description` using YAML's `|-`.
-item:
-- certificate_url: 
-  date_end: "2019-01-06"
-  date_start: "2019-21-10"
-  description: "1st Runner's Up"
-  organization: The Marconi Society 
-  organization_url: https://marconisociety.org/
-  title: Celestini Prize India 2019
-  url: https://www.indiatoday.in/education-today/news/story/delhi-college-students-win-prestigious-marconi-awards-for-apps-on-women-safety-and-checking-air-pollution-1611854-2019-10-22
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "ESYA 2018, IIIT Delhi"
+  organization_url = ""
+  title = "Runner up, Design360"
+  url = ""
+  certificate_url = "https://drive.google.com/open?id=1z6nrDa0itjG365UhAF4wBykn4gt-dAgr"
+  date_start = "2018-08-18"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "IGDTUW-HACKS - Paytm Build for INDIA 2019"
+  organization_url = ""
+  title = "2nd Runner up"
+  url = ""
+  certificate_url = "https://drive.google.com/open?id=1AlxB0JQc8E5D_wOVNfNyNl5e-qM_TIdh"
+  date_start = "2019-06-01"
+  date_end = ""
+  description = ""
+ # description = "Formulated informed blockchain models, hypotheses, and use cases."
   
+[[item]]
+  organization = "MIT India Initiative"
+  organization_url = ""
+  title = "Selected for MIT India Initiative: Design, Technology and Social Innovation Workshop 2020"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1ENQhGm5ia_0f7myjtAlTmZGBILtHRXC4/view?usp=sharing"
+  date_start = "2020-01-20"
+  date_end = ""
+  description = ""
 
-- certificate_url: 
-  date_end: ""
-  date_start: "2019-30-09"
-  description: 1st Runners-Up
-  organization: Ministry of Education, Government of India and Education Ministry of  Singapore 
-  organization_url: 
-  title: Singapore India Hackathon 2019
-  url: https://timesofindia.indiatimes.com/topic/Singapore-India-Hackathon
+[[item]]
+  organization = "Celestini India Program"
+  organization_url = ""
+  title = "Intern"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1kNk7mwfGjim9Ry6kcm3YqonO4HRMtJeG/view?usp=sharing"
+  date_start = "2019-06-01"
+  date_end = "2019-10-21"
+  description = ""
+ # description = "Formulated informed blockchain models, hypotheses, and use cases."
+ 
+ [[item]]
+  organization = "DTU Vihaan 2.0 Design-o-thon 2019"
+  organization_url = ""
+  title = "2nd Runner Up"
+  url = ""
+  certificate_url = "https://drive.google.com/open?id=17WYZxDhrfKcCOFrI0m_rwSeob4R9fmeb"
+  date_start = "2019-02-09"
+  date_end = ""
+  description = ""
   
-- certificate_url: 
-  date_end: ""
-  date_start: "2019-31-03"
-  description: Winner
-  organization: Indian Institute of Technology 
-  organization_url: https://e-yantra.org/
-  title: e-Yantra National Robotics Competition 
-  url: 
+   [[item]]
+  organization = "BLENDIT Amity Cyber Cup"
+  organization_url = ""
+  title = "2nd Runner Up"
+  url = ""
+  certificate_url = "https://drive.google.com/open?id=1sp_tiEptoR17w2BRVYS1bmjViBfcgOuf"
+  date_start = "2019-01-08"
+  date_end = ""
+  description = ""
 
-
-- certificate_url:
-  date_end: ""
-  date_start: "2019-03-04"
-  description: Winner
-  organization: All India Council for Technical Education
-  organization_url: 
-  title: Smart India Hackathon 2019 - Software Edition
-  url:
-
----
++++
