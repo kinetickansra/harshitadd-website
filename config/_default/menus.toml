@@ -7,13 +7,7 @@
   name = "Home"
   url = "#about"
   weight = 10
-
-
-[[main]]
-  name = "News"
-  url = "#news"
-  weight = 20
-
+  
 [[main]]
   name = "Experience"
   url = "#experience"
